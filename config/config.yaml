@@ -1,2 +1,2 @@
-path: "gal_model.joblib"
+path: "my_model.joblib"
 features: ['PPE', 'DFA']
